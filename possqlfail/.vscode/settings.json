@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "202.78.202.232",
+            "port": 1211,
+            "driver": "MSSQL",
+            "name": "Montana",
+            "database": "montana",
+            "username": "sa",
+            "password": "P@ssw0rdgms"
+        }
+    ]
+}
